@@ -4,7 +4,6 @@
 
 - 🔥 **Node.js TypeScript Developer**  
 
----
 
 ## 🛠️ Language and Tools:
 

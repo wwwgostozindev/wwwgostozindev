@@ -57,11 +57,11 @@
 
 ## Minhas Estatísticas  
 <p align="center">
-  <a href="https://github.com/wwwgostozindev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wwwgostozindev&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="Estatísticas GitHub"/>
+  <a href="https://github.com/wwwgostozin">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=wwwgostozin&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="Estatísticas GitHub"/>
   </a>
-  <a href="https://github.com/wwwgostozindev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwgostozindev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas"/>
+  <a href="https://github.com/wwwgostozin">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwgostozin&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas"/>
   </a>
 </p>
 

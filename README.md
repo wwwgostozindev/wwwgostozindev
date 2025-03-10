@@ -1,5 +1,5 @@
 <h3 align="start">
-  👋 Olá, eu sou Jean, mais conhecido como www! 
+  👋 Hello, I'm Jean, also known as www! 
 </h3>
 
 ---
@@ -12,20 +12,20 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://wwwgostozin.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### Sobre mim
-- 🎓 Tenho **17 anos** e estudo programação desde os **12**.
-- 🚀 Programador **focado em Node.js** e apaixonado por tecnologia.
-- 🤖 Criando **bots para Discord** e automações para facilitar a vida dos usuários.
+### About Me
+- 🎓 I'm **17 years old** and have been studying programming since I was **12**.
+- 🚀 A **Node.js-focused** developer passionate about technology.
+- 🤖 Creating **Discord bots** and automation tools to make users' lives easier.
 
 ---
 
-## Linguagens e Ferramentas:
+## Languages & Tools:
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
@@ -61,9 +61,7 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
   </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" />
-  </a>
+
   <a href="https://aws.amazon.com/dynamodb/" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" alt="DynamoDB" width="48" height="48" />
   </a>
@@ -80,9 +78,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="48" height="48" />
   </a>
 </p>
-
-
-
----
-
-
